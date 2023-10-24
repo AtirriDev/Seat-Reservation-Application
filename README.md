@@ -1,5 +1,7 @@
 # Seat-Reservation-Application
 Logic Exercise in C# .NET, console application. This app is inspired by the seat reservation in a cinema/theater.
+
+
 Instructions:
 Imagine a seat reservation system for an amphitheater/cinema. The theater has 10 rows with 10 seats each.
 A system needs to be developed (without the use of a database, only logical data management). The system should perform the following:
